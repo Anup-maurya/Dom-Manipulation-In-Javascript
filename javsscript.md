@@ -42,7 +42,7 @@
 
 ### Sample Image
 
-![Sample One](./image./images/Pic4.png)
+![Sample One](./images/Pic4.png)
 
 
 
@@ -52,11 +52,11 @@
 
 ### Output
 
-![Output](./image./images/Pic5.png)
+![Output](images/Pic5.png)
 
 ### Solution
 
-![Solution](./image./images/ans3.PNG)
+![Solution](./images/ans3.PNG)
 
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
@@ -66,7 +66,7 @@
 
 ### Sample Image
 
-![Sample One](./image./images/Pic6.png)
+![Sample One](./images/Pic6.png)
 
 ### Tasks
 
@@ -74,11 +74,11 @@
 
 ### Output
 
-![Output](./image./images/Pic7.png)
+![Output](./images/Pic7.png)
 
 ### Solution
 
-![Solution](./image./images/ans6.PNG)
+![Solution](./images/ans6.PNG)
 
 
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
@@ -89,7 +89,7 @@
 
 ### Sample Image
 
-![Sample One](./image./images/Pic8.png)
+![Sample One](./images/Pic8.png)
 
 ### Tasks
 
@@ -97,11 +97,11 @@
 
 ### Output
 
-![Output](./image./images/Pic9.png)
+![Output](./images/Pic9.png)
 
 ### Solution
 
-![Solution](./image./images/ans8.PNG)
+![Solution](./images/ans8.PNG)
 
 
 
@@ -113,7 +113,7 @@
 
 ### Sample Image
 
-![Sample One](./image./images/Pic10.png)
+![Sample One](./images/Pic10.png)
 
 ### Tasks
 
@@ -121,7 +121,7 @@
 
 ### Output
 
-![Output](./image./images/Pic11.png)
+![Output](./images/Pic11.png)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -131,7 +131,7 @@
 
 ### Sample Image
 
-![Sample One](./image./images/Pic12.png)
+![Sample One](./images/Pic12.png)
 
 ### Tasks
 
@@ -140,7 +140,7 @@
 
 ### Output
 
-![Output](./image./images/Pic13.png)
+![Output](./images/Pic13.png)
 
 8. Webiste Name: [Google](https://www.google.com/)
 
@@ -150,7 +150,7 @@
 
 ### Sample Image
 
-![Sample One](./image./images/Pic14.png)
+![Sample One](./images/Pic14.png)
 
 ### Tasks
 
@@ -158,7 +158,7 @@
 
 ### Output
 
-![Output](./image./images/Pic15.png)
+![Output](./images/Pic15.png)
 
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
@@ -168,7 +168,7 @@
 
 ### Sample Image
 
-![Sample One](./image./images/Pic16.png)
+![Sample One](./images/Pic16.png)
 
 ### Tasks
 
@@ -314,6 +314,9 @@ Target the top description and change “Matching developers with great companie
 
 ![Sample One](./images/Pic33.png)
 
+
+
+
 ### Tasks
 
      change the button text To current Date.
@@ -321,6 +324,10 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./images/Pic32.png)
+
+### Solution
+
+![Solution](./images/ans17.png)
 
 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
@@ -340,6 +347,13 @@ Target the top description and change “Matching developers with great companie
 
 ![Output](./images/Pic35.png)
 
+
+
+### Solution
+
+![Solution](./images/ans18.png)
+
+
 19. Webiste Name: [Canon](https://in.canon/)
 
 ### Topics
@@ -358,6 +372,13 @@ Target the top description and change “Matching developers with great companie
 
 ![Output](./images/Pic37.png)
 
+
+### Solution
+
+![Solution](./images/ans19.png)
+
+
+
 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
 ### Topics
@@ -368,6 +389,8 @@ Target the top description and change “Matching developers with great companie
 
 ![Sample One](./images/Pic38.png)
 
+
+
 ### Tasks
 
       Change the description colour black to orange
@@ -375,3 +398,10 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./images/Pic39.png)
+
+
+### Solution
+
+![Solution](./images/ans20.png)
+
+
