@@ -101,7 +101,7 @@
 
 ### Solution
 
-![Solution](./images/ans8.PNG)
+![Solution](./images/ans5.png)
 
 
 
@@ -160,6 +160,11 @@
 
 ![Output](./images/Pic15.png)
 
+### Solution
+
+![Solution](./images/ans8.png)
+
+
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
 ### Topics
@@ -177,6 +182,11 @@
 ### Output
 
 ![Output](./images/Pic17.png)
+
+
+### Solution
+
+![Solution](./images/ans9.png)
 
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
@@ -232,6 +242,10 @@
 
 ![Output](./images/Pic23.png)
 
+### Solution
+
+![Solution](./images/ans12.png)
+
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
 ### Topics
@@ -249,6 +263,10 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./images/Pic25.png)
+
+### Solution
+
+![Solution](./images/ans13.png)
 
 14. Webiste Name: [Asus](https://www.asus.com/in/)
 
@@ -268,6 +286,12 @@ Target the top description and change “Matching developers with great companie
 
 ![Output](./images/Pic27.png)
 
+
+### Solution
+
+![Solution](./images/ans14.png)
+
+
 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
 ### Topics
@@ -286,6 +310,12 @@ Target the top description and change “Matching developers with great companie
 
 ![Output](./images/Pic29.png)
 
+
+### Solution
+
+![Solution](./images/ans15.png)
+
+
 16. Webiste Name: [Vercel](https://vercel.com/)
 
 ### Topics
@@ -303,6 +333,12 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./images/Pic31.png)
+
+
+
+### Solution
+
+![Solution](./images/ans16.png)
 
 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
